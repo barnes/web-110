@@ -1,11 +1,24 @@
 body {
-    background-color: #cdb4db
+    background-color: #cdb4db;
 }
 
 .card {
     width: 75%;
-    background-color: #bde0fe;
     padding: 2rem;
     margin: 2rem;
+    background-color:#047751;
 
+}
+
+.green {
+    background-color: #02a335;
+}
+
+.blue {
+    background-color:#041577
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
 }
